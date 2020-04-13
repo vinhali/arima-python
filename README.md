@@ -40,6 +40,14 @@ Variáveis:
 |**D**|1|Grau|
 |**n_periods**|Períodos|Previsão para 24 períodos (2 anos)|
 
+Pip:
+--------------
+
+|Pip install|Comando|
+|:--|:--|
+|**Matplotlib**|pip3 install matplotlib|
+|**Pmdarima**|pip3 install pmdarima|
+
 ## Dados:
 
 <img src="https://raw.githubusercontent.com/vinhali/advanced_monitoring/master/arima/img/data.png">
