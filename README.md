@@ -47,6 +47,10 @@ Pip:
 |:--|:--|
 |**Matplotlib**|pip install matplotlib|
 |**Pmdarima**|pip install pmdarima|
+|**Pandas**|pip install pandas|
+|**Numpy**|pip install numpy|
+|**State models**|pip install statsmodels|
+|**Scikit learn**|pip install scikit-learn|
 
 ## Dados:
 
