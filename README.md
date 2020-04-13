@@ -40,17 +40,17 @@ Variáveis:
 |**D**|1|Grau|
 |**n_periods**|Períodos|Previsão para 24 períodos (2 anos)|
 
-Pip:
+Dependências:
 --------------
 
 |Módulo|Comando|
 |:--|:--|
-|**Matplotlib**|pip install matplotlib|
-|**Pmdarima**|pip install pmdarima|
-|**Pandas**|pip install pandas|
-|**Numpy**|pip install numpy|
-|**State models**|pip install statsmodels|
-|**Scikit learn**|pip install scikit-learn|
+|Matplotlib|pip install matplotlib|
+|Pmdarima|pip install pmdarima|
+|Pandas|pip install pandas|
+|Numpy|pip install numpy|
+|State models|pip install statsmodels|
+|Scikit learn|pip install scikit-learn|
 
 ## Dados:
 
