@@ -58,7 +58,7 @@ Pip:
 
 ## Previsão:
 
-<img src="https://raw.githubusercontent.com/vinhali/advanced_monitoring/master/arima/img/arima.png">
+<img src="https://github.com/vinhali/arima-python/blob/master/img/forecast.png">
 
 <b>Referência da previsão:</b> https://pypi.org/project/pmdarima/
 
