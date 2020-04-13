@@ -45,8 +45,8 @@ Pip:
 
 |PMódulo|Comando|
 |:--|:--|
-|**Matplotlib**|pip3 install matplotlib|
-|**Pmdarima**|pip3 install pmdarima|
+|**Matplotlib**|pip install matplotlib|
+|**Pmdarima**|pip install pmdarima|
 
 ## Dados:
 
