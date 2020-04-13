@@ -43,7 +43,7 @@ Variáveis:
 Pip:
 --------------
 
-|PMódulo|Comando|
+|Módulo|Comando|
 |:--|:--|
 |**Matplotlib**|pip install matplotlib|
 |**Pmdarima**|pip install pmdarima|
