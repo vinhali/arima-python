@@ -21,7 +21,7 @@ class operationsArima():
 
         try:
 
-            df = pd.read_csv('cpu2.csv', names=['value'], header=0)
+            df = pd.read_csv('data.csv', names=['value'], header=0)
 
             model = pm.auto_arima(df.value, start_p=1, start_q=1,
                                 test='adf',       # use adftest to find optimal 'd'
